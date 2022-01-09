@@ -4,4 +4,4 @@ Task: Use HTML and CSS to code this static webpage with flexbox: https://content
 Additional Information: 
   - First coded static page
   - Duration: 2 h
-  - Site not hosted yet
+  - Site not hosted 
